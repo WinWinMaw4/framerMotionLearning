@@ -4,6 +4,7 @@ import AnimatedCounter from './AnimatedCounter'
 import AnimatedBox from './AnimatedBox'
 import { motion, Variants } from "framer-motion"
 import { splitStringUsingRegex } from './utils/splitStringRegex'
+import Link from 'next/link'
 
 const charVariants = {
   hidden: { opacity: 0 },
