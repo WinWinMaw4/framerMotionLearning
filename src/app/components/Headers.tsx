@@ -13,7 +13,7 @@ const Headers = () => {
             <Link href="/">Previous</Link>
             </li>
             <li>
-            <Link href="/exerciese/scroll">Next</Link>
+            <Link href="/exerciese/exercise1">Next</Link>
             </li>
         </ul>
       </div>
